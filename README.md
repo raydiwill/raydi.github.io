@@ -1,6 +1,6 @@
 ![Awesome Portfolio Website](./readme_assets/banner_apw.png)
 
-Taken from the community maintained open source project aimed at making personal portfolio for researchers, developers and analysts simple, fast and less cumbersome. Credit to **smaranjitghose** with the ![](https://github.com/smaranjitghose/awesome-portfolio-websites)
+Taken from the community maintained open source project aimed at making personal portfolio for researchers, developers and analysts simple, fast and less cumbersome. Credit to **smaranjitghose** with the [repo](https://github.com/smaranjitghose/awesome-portfolio-websites)
 
 ## A sneak peek into what we have here🙈 :
 
