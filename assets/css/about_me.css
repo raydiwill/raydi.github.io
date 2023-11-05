@@ -387,23 +387,27 @@ body {
     background-color: white;
     display: flex;
     height: 100vh;
+    padding-top: 80px;
 }
 .hero .item1 {
-    width:50%;
-    background: url('../images/travel/hero.svg');
+    width:40%;
+    background: url('../images/travel/me.JPG');
     background-repeat: no-repeat;
     background-position: 60% 35%;
-    background-size: 350px;
+    background-size: 480px;
+    height: 100%;
 }
 .hero .item2 {
     background-color: white; 
-    width: 50%;
+    width: 60%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     font-weight: bold;
     color: #343a40;
+    height: 100%;
+    margin-bottom: 0;
 }
 .hero .item2 span {
     color: rgb(121, 59, 221);
