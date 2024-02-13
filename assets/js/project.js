@@ -7,7 +7,7 @@ const projectcards = document.querySelector(".projectcards");
 const projects = [
   {
     title: "Churn prediction",
-    cardImage: "assets/images/project-page/churn.png",
+    cardImage: "../assets/images/project-page/churn.png",
     description: "A Churn prediction Machine Learning app built using Python, FastAPI, Streamlit.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "",
@@ -15,7 +15,7 @@ const projects = [
   },
   {
     title: "Goodreads EDA",
-    cardImage: "assets/images/project-page/goodreads.jpeg",
+    cardImage: "../assets/images/project-page/goodreads.jpeg",
     description: "An EDA analyzed which books is the most popular, who is the most popular author, etc.",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
     Previewlink: "",
@@ -23,7 +23,7 @@ const projects = [
   },
   {
     title: "Coursera Capstone",
-    cardImage: "assets/images/project-page/bike.jpeg",
+    cardImage: "../assets/images/project-page/bike.jpeg",
     description: "Google Data Analytics Professional Certificate Capstone Project.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "",
@@ -31,7 +31,7 @@ const projects = [
   },
   {
     title: "Web-bot scraper",
-    cardImage: "assets/images/project-page/linkedin.png",
+    cardImage: "../assets/images/project-page/linkedin.png",
     description: "A simple bot script using selenium to scrape job details from Linkedin job posting domain.",
     tagimg: "https://miro.medium.com/max/2800/0*U2DmhXYumRyXH6X1.png",
     Previewlink: "",
