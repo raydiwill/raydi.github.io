@@ -445,7 +445,7 @@ body {
     .hero {
         flex-direction: column;
         justify-content:space-evenly;
-        height: 80vh;
+        height: auto; /* Change the height to auto */
     }
     .hero .item1 {
         background-position: 60% 0%;
@@ -455,6 +455,7 @@ body {
     }
     .hero .item2 {
         width: 100%;
+        padding: 20px; /* Add some padding */
     }
 
     .el__text {
