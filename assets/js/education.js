@@ -5,23 +5,28 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
+    title: "Data Scientist Professional Certificate",
+    cardImage: "../assets/images/education-page/datacamp.svg",
+    moocLink: "https://www.datacamp.com/certificate/DS0021400740024",
+  },
+  {
     title: "Google Data Analytics Professional Certificate",
-    cardImage: "assets/images/education-page/coursera2.svg",
+    cardImage: "../assets/images/education-page/coursera2.svg",
     moocLink: "https://www.coursera.org/account/accomplishments/professional-cert/TXQHCQ43PKW6",
   },
   {
     title: "Data Scientist Associate Certificate",
-    cardImage: "assets/images/education-page/datacamp.svg",
+    cardImage: "../assets/images/education-page/datacamp.svg",
     moocLink: "https://www.datacamp.com/certificate/DSA0012827955092",
   },
   {
     title: "Data Analyst Associate Certificate",
-    cardImage: "assets/images/education-page/datacamp.svg",
+    cardImage: "../assets/images/education-page/datacamp.svg",
     moocLink: "https://www.datacamp.com/certificate/DAA0010351994549",
   },
   {
     title: "Data Analyst with R",
-    cardImage: "assets/images/education-page/datacamp.svg",
+    cardImage: "../assets/images/education-page/datacamp.svg",
     moocLink: "https://www.datacamp.com/completed/statement-of-accomplishment/track/3d10b454a6e706fb724b1f885c46fe9a8867870f",
   },
 ];
