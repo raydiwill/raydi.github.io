@@ -388,6 +388,7 @@ body {
     display: flex;
     height: 100vh;
     padding-top: 80px;
+    margin-bottom: 100px;
 }
 .hero .item1 {
     width:40%;
