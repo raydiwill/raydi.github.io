@@ -11,7 +11,7 @@ const projects = [
     description: "A Churn prediction Machine Learning app built using Python, FastAPI, Streamlit.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "",
-    Githublink: "https://gitfront.io/r/raydi/TqojdeVbGkBV/customer-churn-ml-app/",
+    Githublink: "https://github.com/raydiwill/customers-churn-ml-app",
   },
   {
     title: "Goodreads EDA",
