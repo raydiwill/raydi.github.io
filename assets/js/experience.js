@@ -6,7 +6,7 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "Associate Data Analyst",
-    cardImage: "assets/images/experience-page/logo_viettel.jpeg",
+    cardImage: "../assets/images/experience-page/logo_viettel.jpeg",
     place: "Viettel Group",
     time: "(April - June, 2022)",
     desp: "<li>Utilised SQL for the analysis of telecommunications customer usage data.</li>" +
@@ -15,7 +15,7 @@ const exp = [
   },
   {
     title: "Cyber Security Intern",
-    cardImage: "assets/images/experience-page/Logo-Napas.jpeg",
+    cardImage: "../assets/images/experience-page/Logo-Napas.jpeg",
     place: "NAPAS",
     time: "(April - October, 2021)",
     desp: "<li>Collected 1,852 Threat Intelligence data entries through OSINT from the World Wide Web.</li>" +
