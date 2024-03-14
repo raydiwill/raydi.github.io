@@ -6,6 +6,22 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
+    title: "Kaggle Competitions",
+    cardImage: "../assets/images/project-page/kaggle_logo_2.png",
+    description: "Kaggle Playground competitions.",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "",
+    Githublink: "https://github.com/raydiwill/Steel-Plate-Defect-KaggleC",
+  },
+  {
+    title: "Deep Learning Webapp",
+    cardImage: "../assets/images/project-page/web-app.png",
+    description: "A Churn prediction Deep Learning app built using Python, FastAPI, Streamlit.",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "",
+    Githublink: "https://github.com/raydiwill/customers-churn-ml-app",
+  },
+  {
     title: "Churn prediction",
     cardImage: "../assets/images/project-page/churn.png",
     description: "A Churn prediction Machine Learning app built using Python, FastAPI, Streamlit.",
