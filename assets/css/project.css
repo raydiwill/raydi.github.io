@@ -231,6 +231,19 @@ a:hover {
   font-size: 0.65em;
 }
 
+/* CSS for the project title link */
+.card .title .title-link {
+  text-decoration: none; /* Removes the underline by default */
+  color: inherit; /* Optional: ensures the link color is the same as the rest of the title */
+  transition: text-decoration 0.3s; /* Smooth transition for the underline */
+}
+
+/* CSS for the hover effect */
+.card .title .title-link:hover {
+  text-decoration: underline; /* Adds underline on hover */
+}
+
+
 @media (min-width: 411px) {
   .card .title {
     font-size: 0.8em;
