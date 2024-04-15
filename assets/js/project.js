@@ -22,7 +22,7 @@ const projects = [
     Githublink: "https://github.com/raydiwill/Steel-Plate-Defect-KaggleC",
   },
   {
-    title: "Deep Learning Webapp",
+    title: "Telecom Deep Learning Webapp",
     cardImage: "../assets/images/project-page/web-app.png",
     description: "A Churn prediction Deep Learning app built using Python, FastAPI, Streamlit.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
@@ -30,7 +30,7 @@ const projects = [
     Githublink: "https://github.com/raydiwill/customers-churn-ml-app",
   },
   {
-    title: "Churn prediction",
+    title: "Banking customer Churn prediction",
     cardImage: "../assets/images/project-page/churn.png",
     description: "A Churn prediction Machine Learning app built using Python, FastAPI, Streamlit.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
@@ -38,7 +38,7 @@ const projects = [
     Githublink: "https://github.com/raydiwill/customers-churn-ml-app",
   },
   {
-    title: "Goodreads EDA",
+    title: "Goodreads EDA practice",
     cardImage: "../assets/images/project-page/goodreads.jpeg",
     description: "An EDA analyzed which books is the most popular, who is the most popular author, etc.",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
@@ -46,7 +46,7 @@ const projects = [
     Githublink: "https://github.com/raydiwill/goodreads-portfolio#exploratory-data-analysis-on-goodreads-book-datasets-with-user-rating-2m-dataset-project",
   },
   {
-    title: "Coursera Capstone",
+    title: "Coursera Capstone project",
     cardImage: "../assets/images/project-page/bike.jpeg",
     description: "Google Data Analytics Professional Certificate Capstone Project.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
