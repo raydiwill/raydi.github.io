@@ -454,17 +454,20 @@ a:hover {
 
 .btn-rounded-white {
   display:inline-block;
-  color:#fff;
   padding:8px 12px;
-  border:3px solid #fff;
+  border: 3px solid;
   border-radius:30px;
   transition:.5s ease all;
   font-size: 0.8em;
   margin-top: 20px;
   margin-bottom: 20px;
+  
 }
 
-.btn-rounded-white:hover {color:#3498db;
+
+
+.btn-rounded-white:hover {
+  color:#3498db;
   background:#fff;
   text-decoration:none
 }
