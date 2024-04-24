@@ -6,9 +6,17 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
+    title: "First Kaggle Prized Competitions",
+    cardImage: "../assets/images/project-page/header.png",
+    description: "Home Credit - Credit Risk Model Stability",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "",
+    Githublink: "https://github.com/raydiwill/Home-Credit-KaggleC",
+  },
+  {
     title: "Second Kaggle Playground Competitions",
     cardImage: "../assets/images/project-page/kaggle_logo_2.png",
-    description: "Kaggle Playground competitions.",
+    description: "Kaggle Playground Series - Season 4, Episode 4.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "",
     Githublink: "https://github.com/raydiwill/Abalone-Regression-KaggleC",
@@ -16,7 +24,7 @@ const projects = [
   {
     title: "First Kaggle Playground Competitions",
     cardImage: "../assets/images/project-page/kaggle_logo_2.png",
-    description: "Kaggle Playground competitions.",
+    description: "Kaggle Playground Series - Season 4, Episode 3.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "",
     Githublink: "https://github.com/raydiwill/Steel-Plate-Defect-KaggleC",
